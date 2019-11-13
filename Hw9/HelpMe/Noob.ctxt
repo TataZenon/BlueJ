@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Noob
+comment1.params=
+comment1.target=Noob()
+comment2.params=a\ b
+comment2.target=Noob(java.lang.String,\ int)
+comment3.params=n
+comment3.target=Noob(Noob)
+comment4.params=n\ s
+comment4.target=void\ findNoob(Noob[],\ java.lang.String)
+comment5.params=n\ x
+comment5.target=void\ findGroupOfNoob(Noob[],\ int)
+numComments=6

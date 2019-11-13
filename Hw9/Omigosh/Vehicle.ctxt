@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=
+comment1.target=int\ getWheel()
+comment2.params=
+comment2.target=int\ getSeat()
+comment3.params=
+comment3.target=java.lang.String\ getEngine()
+comment4.params=
+comment4.target=double\ getFuel()
+comment5.params=
+comment5.target=void\ addFuel()
+comment6.params=
+comment6.target=double\ getSpeed()
+comment7.params=
+comment7.target=void\ upSpeed()
+comment8.params=
+comment8.target=void\ downSpeed()
+numComments=9

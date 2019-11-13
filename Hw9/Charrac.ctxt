@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Charrac
+comment1.params=
+comment1.target=Charrac()
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=pname
+comment3.target=void\ setPname(java.lang.String)
+comment4.params=gender
+comment4.target=void\ setGender(boolean)
+comment5.params=hp
+comment5.target=void\ setHp(int)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=java.lang.String\ getpName()
+comment8.params=
+comment8.target=boolean\ getGender()
+comment9.params=
+comment9.target=int\ getHp()
+numComments=10

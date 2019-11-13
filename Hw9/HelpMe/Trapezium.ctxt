@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Trapezium
+comment1.params=w\ x\ y\ z
+comment1.target=Trapezium(Point,\ Point,\ Point,\ Point)
+comment2.params=t
+comment2.target=Trapezium(anotherHW.Trapezium)
+comment3.params=t\ c
+comment3.target=boolean\ isTrapeziumInCircle(anotherHW.Trapezium,\ Circle)
+comment4.params=t
+comment4.target=double\ getTrapeziumBorder(anotherHW.Trapezium)
+numComments=5

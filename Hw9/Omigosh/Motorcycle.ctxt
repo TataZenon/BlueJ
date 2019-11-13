@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Motorcycle
+comment1.params=wh\ se\ en\ fu\ sp
+comment1.target=Motorcycle(int,\ int,\ java.lang.String,\ double,\ double)
+comment10.params=x
+comment10.target=void\ downSpeed(double)
+comment11.params=x
+comment11.target=void\ breaK(double)
+comment2.params=m
+comment2.target=Motorcycle(Motorcycle)
+comment3.params=
+comment3.target=int\ getWheel()
+comment4.params=
+comment4.target=int\ getSeat()
+comment5.params=
+comment5.target=java.lang.String\ getEngine()
+comment6.params=
+comment6.target=double\ getFuel()
+comment7.params=f
+comment7.target=void\ addFuel(double)
+comment8.params=
+comment8.target=double\ getSpeed()
+comment9.params=x
+comment9.target=void\ upSpeed(double)
+numComments=12

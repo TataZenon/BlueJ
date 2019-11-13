@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Circlez
+comment1.params=x\ y\ r
+comment1.target=Circlez(double,\ double,\ double)
+comment2.params=
+comment2.target=Circlez()
+comment3.params=c
+comment3.target=Circlez(anotherHW.Circlez)
+comment4.params=c
+comment4.target=double\ distanceTo(anotherHW.Circlez)
+comment5.params=c
+comment5.target=boolean\ isInCircle(anotherHW.Circlez)
+comment6.params=c
+comment6.target=boolean\ isIntersected(anotherHW.Circlez)
+comment7.params=c
+comment7.target=boolean\ equals(anotherHW.Circlez)
+numComments=8

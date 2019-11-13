@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Money
+comment0.text=\r\n\r\n\ @author\ Pc\r\n
+comment1.params=
+comment1.target=void\ setMoney()
+comment2.params=
+comment2.target=double\ getMoney()
+numComments=3
