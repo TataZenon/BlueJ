@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Charrac
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment2.params=pname
+comment2.target=void\ setPname(java.lang.String)
+comment3.params=gender
+comment3.target=void\ setGender(java.lang.Boolean)
+numComments=4
